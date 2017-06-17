@@ -1,0 +1,6 @@
+C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\bin\Debug\This is Very Easy.exe.config
+C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\bin\Debug\This is Very Easy.exe
+C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\bin\Debug\This is Very Easy.pdb
+C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\obj\Debug\This is Very Easy.exe
+C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\obj\Debug\This is Very Easy.pdb
+C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\obj\Debug\This is Very Easy.csprojResolveAssemblyReference.cache
