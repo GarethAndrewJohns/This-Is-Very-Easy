@@ -4,3 +4,4 @@ C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Eas
 C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\obj\Debug\This is Very Easy.exe
 C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\obj\Debug\This is Very Easy.pdb
 C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\obj\Debug\This is Very Easy.csprojResolveAssemblyReference.cache
+C:\Users\garet\Documents\Programming Projects\This is Very Easy\This is Very Easy\obj\Debug\This is Very Easy.csproj.CoreCompileInputs.cache
